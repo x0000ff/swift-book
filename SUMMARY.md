@@ -2,7 +2,7 @@
 
 * [introduction](README.md)
 * [Что такое программирование?](1.what-is-programming.md)
-* Swift
+* [Swift](2.swift.md)
 * [Учимся говорить](2.print.md)
 * [Переменные](var.md)
 
