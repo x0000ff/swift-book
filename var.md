@@ -1,8 +1,7 @@
 Here I plan to include source:
 
-!CODEFILE "./src/0-intro.swift"  
+`0-intro.swift`  
+!CODEFILE "./src/0-intro.swift"
+
+`book.json`  
 !CODEFILE "book.json"
-
-{% include "./src/0-intro.swift" %}
-
-{% include "book.json" %}
