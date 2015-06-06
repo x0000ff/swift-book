@@ -1,4 +1,4 @@
-# Summary
+# Оглавление
 
 * [Введение](README.md)
    * [Что такое программирование?](0.1.what-is-programming.md)
