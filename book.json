@@ -5,7 +5,7 @@
     "plugins": ["include-highlight","edit-link"],
     "pluginsConfig": {
             "edit-link": {
-                "base": "https://github.com/USER/REPO/edit/BRANCH/path/to/book",
+                "base": "https://github.com/x0000ff/swift-book",
                 "label": "Edit This Page"
             }
     },
