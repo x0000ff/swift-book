@@ -1,4 +1,5 @@
 {
+    "title" : "Swift book",
     "plugins" : [ "include-highlight" ],
     "structure": {
         "readme": "intro.md"
