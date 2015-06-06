@@ -1,3 +1,16 @@
 {
-    "title": "AAA"
+    "gitbook": "2.1.0",
+    "title" : "Swift book",
+    "language" : "ru",
+    "plugins" : [ "include-highlight" ],
+    "structure": {
+        "readme": "intro.md"
+    },
+    "styles": {
+        "website": "styles/website.css",
+        "ebook": "styles/ebook.css",
+        "pdf": "styles/pdf.css",
+        "mobi": "styles/mobi.css",
+        "epub": "styles/epub.css"
+    }
 }
