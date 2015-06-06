@@ -1,5 +1,6 @@
 {
     "title" : "Swift book",
+    "language" : "ru",
     "plugins" : [ "include-highlight" ],
     "structure": {
         "readme": "intro.md"
