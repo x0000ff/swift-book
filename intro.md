@@ -2,4 +2,4 @@ Here I plan to include source:
 
 !CODEFILE "/src/0-intro.swift"
 
-
+{% include "./src/0-intro.swift" %}
