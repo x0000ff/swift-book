@@ -1,3 +1,3 @@
-# Swift-book
+# Swift book [ru]
 
 Моя проба пера...
