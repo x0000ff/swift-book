@@ -4,7 +4,7 @@
     "language" : "ru",
     "plugins" : [ "include-highlight" ],
     "structure": {
-        "readme": "intro.md"
+        "readme": "introduction.md"
     },
     "styles": {
         "website": "styles/website.css",
