@@ -2,7 +2,7 @@
     "gitbook": "2.1.0",
     "title" : "Swift book",
     "language" : "ru",
-    "plugins": ["include-highlight","edit-link"],
+    "plugins": ["codeblock-filename","include-highlight","edit-link"],
     "pluginsConfig": {
             "edit-link": {
                 "base": "https://github.com/x0000ff/swift-book/tree/master/",
