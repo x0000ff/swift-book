@@ -9,7 +9,7 @@ Text prior to footnote reference.[^2]
 
 # References
 
-
+[https://developer.apple.com/swift/](https://developer.apple.com/swift/)
 
 [https://ru.wikipedia.org/wiki/Swift_(язык_программирования)](https://ru.wikipedia.org/wiki/Swift_(язык_программирования)  
 [http://blog.teamtreehouse.com/an-absolute-beginners-guide-to-swift](http://blog.teamtreehouse.com/an-absolute-beginners-guide-to-swift)  
