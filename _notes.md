@@ -7,6 +7,10 @@ Text prior to footnote reference.[^2]
 
 [^2] Comment to include in footnote.
 
+# References
+
+[http://blog.teamtreehouse.com/an-absolute-beginners-guide-to-swift](http://blog.teamtreehouse.com/an-absolute-beginners-guide-to-swift)  
+
 # TODOs
 - [ ] write some articles
 - [x] drink a cup of tea
