@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="/img/swift-logo.png" alt="Bird">
-  <br>
 </p>
 
 ## В начале было слово и было оно 2 байта...
