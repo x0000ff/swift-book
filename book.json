@@ -1,6 +1,6 @@
 {
     "gitbook": "2.1.0",
-    "title" : "Swift book",
+    "title" : "Swift 101: Путь падавана",
     "language" : "ru",
     "plugins": ["todo",
                 "codeblock-filename",
