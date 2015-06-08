@@ -16,6 +16,8 @@ Text prior to footnote reference.[^2]
 [SwiftStub.com](http://swiftstub.com)  
 [RunSwiftLang.com](http://www.runswiftlang.com/)
 
+---
+
 [Run online](http://swiftstub.com/730404416/)
 ```swift
 println("Hello, World")
