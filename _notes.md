@@ -11,6 +11,11 @@ Text prior to footnote reference.[^2]
 - [ ] write some articles
 - [x] drink a cup of tea
  
+
+## Code Online:
+[SwiftStub.com](http://swiftstub.com)  
+[RunSwiftLang.com](http://www.runswiftlang.com/)
+
 [Run online](http://swiftstub.com/730404416/)
 ```swift
 println("Hello, World")
