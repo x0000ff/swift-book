@@ -1,6 +1,4 @@
-<p align="center">
-<h1>Swift 101: Путь падавана</h1>
-</p>
+<h1 align="center">Swift 101: Путь падавана</h1>
 
 <p align="center">
   <img src="/img/swift-logo.png" alt="Bird">
