@@ -2,16 +2,25 @@
     "gitbook": "2.1.0",
     "title" : "Swift 101: Путь падавана",
     "language" : "ru",
-    "plugins": ["todo",
-                "codeblock-filename",
-                "include-highlight",
-                "edit-link"
-                ],
+    "plugins": [
+        "todo",
+        "codeblock-filename",
+        "include-highlight",
+        "edit-link"
+    ],
     "pluginsConfig": {
-            "edit-link": {
-                "base": "https://github.com/x0000ff/swift-book/tree/master/",
-                "label": "Edit This Page"
+        "edit-link": {
+            "base": "https://github.com/x0000ff/swift-book/tree/master/",
+            "label": "Edit This Page"
+        },
+        "autocover": {
+            "font":{
+                "color":"#000"
+            },
+            "background":{
+                "color":"#FC5D34"
             }
+        }
     },
     "structure": {
         "readme": "introduction.md"
