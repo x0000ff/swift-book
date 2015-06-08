@@ -9,7 +9,8 @@ Text prior to footnote reference.[^2]
 
 # References
 
-[https://www.gitbook.com/book/mhm5000/swift-cheat-sheet/details](https://www.gitbook.com/book/mhm5000/swift-cheat-sheet/details)
+[https://www.gitbook.com/book/mhm5000/swift-cheat-sheet/details](https://www.gitbook.com/book/mhm5000/swift-cheat-sheet/details)  
+[https://github.com/MHM5000/swift-cheat-sheet](https://github.com/MHM5000/swift-cheat-sheet)
 
 [https://developer.apple.com/swift/](https://developer.apple.com/swift/)
 
