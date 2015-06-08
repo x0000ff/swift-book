@@ -12,14 +12,6 @@
         "edit-link": {
             "base": "https://github.com/x0000ff/swift-book/tree/master/",
             "label": "Edit This Page"
-        },
-        "autocover": {
-            "font":{
-                "color":"#FFF"
-            },
-            "background":{
-                "color":"#FC5D34"
-            }
         }
     },
     "structure": {
