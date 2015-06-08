@@ -1,4 +1,8 @@
-# Swift 101: Путь падавана
+<h1 align="center">Swift 101: Путь падавана</h1>
+
+<p align="center">
+  <img src="/img/swift-logo.png" alt="Bird">
+</p>
 
 ## В начале было слово и было оно 2 байта...
 
