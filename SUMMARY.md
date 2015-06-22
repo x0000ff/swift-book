@@ -4,4 +4,5 @@
 * [Язык программирования Swift](/chapters/2.swift/2.0.swift.md)
     * [Учимся говорить](/chapters/2.swift/2.1.print.md)
     * [Переменные](/chapters/2.swift/2.2.var.md)
+* [Объектно-Ориентированое Программирование](/chapters/3.oop/3.0.oop.md)
 
