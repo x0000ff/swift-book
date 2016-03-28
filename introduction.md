@@ -1,8 +1,8 @@
-<h1 align="center">Swift 101: Путь падавана</h1>
-
 <p align="center">
   <img src="/img/swift-logo.png" alt="Bird">
 </p>
+
+<h1 align="center">Swift 101: Путь падавана</h1>
 
 ## В начале было слово и было оно 2 байта...
 
