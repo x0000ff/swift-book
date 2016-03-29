@@ -18,10 +18,6 @@
         "readme": "introduction.md"
     },
     "styles": {
-        "website": "styles/website.css",
-        "ebook": "styles/ebook.css",
-        "pdf": "styles/pdf.css",
-        "mobi": "styles/mobi.css",
-        "epub": "styles/epub.css"
+        "pdf": "styles/pdf.css"
     }
 }
